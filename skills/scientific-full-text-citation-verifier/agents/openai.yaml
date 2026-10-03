@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Full-Text Citation Verifier"
+  short_description: "Verify scientific claims against actual paper evidence"
+  default_prompt: "Use $scientific-full-text-citation-verifier to decompose the scientific text into atomic claims, verify citations against actual article content, find stronger supporting evidence when needed, and reject papers that do not survive full-text claim-to-evidence verification."
